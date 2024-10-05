@@ -1,9 +1,11 @@
-[![Resume](https://img.shields.io/badge/Resume-00BFFF?style=for-the-badge)](YOUR_RESUME_LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-228B22?style=for-the-badge)](YOUR_PORTFOLIO_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/anand-kumar-24a231331)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge)](mailto:ANANDKALPANASINGH12345@GMAIL.COM)
+<div align="center">
 
+[![Resume](https://img.shields.io/badge/Resume-00BFFF?style=for-the-badge)](YOUR_RESUME_LINK)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-228B22?style=for-the-badge)](YOUR_PORTFOLIO_LINK)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-kumar-24a231331)  
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge)](mailto:ANANDKALPANASINGH12345@GMAIL.COM)  
 
+</div>
  Hey there, welcome to my GitHub profile! Here you’ll find my projects on Python, AI/ML, and Data Science, along with a few mechanical engineering and automation-related projects. I love experimenting with new technologies and solving real-world problems using AI. I’m also passionate about open-source contributions and constantly learning new things. When I’m not coding, you can find me playing cricket or exploring new tech trends .
 ## About Me
 
