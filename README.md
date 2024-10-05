@@ -11,7 +11,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Akworld-blue.svg?&style=for-the-badge&logo=twitter)](https://x.com/Akworld0987)
 [![Instagram](https://img.shields.io/badge/Instagram-anandkumar.ig-pink.svg?&style=for-the-badge&logo=instagram)](https://www.instagram.com/anandkumar.ig/)
 [![Youtube](https://img.shields.io/badge/Youtube-anandsingh-red.svg?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@Anandsingh-by8fk)
-[![LinkedIn](https://img.shields.io/badge/linkedin-anand%20kumar-blue.svg?&style=for-the-badge&logo=linkedin)](linkedin.com/in/anand-kumar-24a231331)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-anand%20kumar-blue.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anand-kumar-24a231331/)
 [![dev.to](https://img.shields.io/badge/dev.to-anandkumar2025-black.svg?&style=for-the-badge&logo=dev.to)](https://dev.to/anandkumar2025)
 
 </div>
