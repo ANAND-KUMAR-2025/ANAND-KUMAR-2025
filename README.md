@@ -50,4 +50,10 @@
 
 - [![Project](https://img.shields.io/badge/My%20AI%20Project-2F74C0?style=for-the-badge&logo=project&logoColor=white)](#)
 
- 
+ ## Experience
+
+- **Intern at IISC (Indian Institute of Science)**: Analyzed products using Ansys and Fusion 360 to improve design and functionality.
+- **Intern at TWOK**: Designed and simulated a safety device using SolidWorks, enhancing user safety features.
+- **Open-source Contributor**: Collaborated on various projects, contributing to codebases and improving documentation.
+- **NSS Volunteer**: Organized community service events, including vaccination drives and blood donation camps, promoting health awareness.
+
