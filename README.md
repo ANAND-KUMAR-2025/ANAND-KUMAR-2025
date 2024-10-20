@@ -31,7 +31,7 @@
 ## About Me
 
 - **Mechanical Engineering student specializing in AI/ML**
-- **Proficient in Python, Data Science, and Automation**
+- **Skilled in Python, Data Science, and Automation**
 - **Basic knowledge of C programming**
 - **Experience with SolidWorks and AI/ML projects**
 
