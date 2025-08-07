@@ -1,4 +1,3 @@
-
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-blueviolet.svg?&style=for-the-badge)]()
@@ -11,48 +10,75 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Akworld-blue.svg?&style=for-the-badge&logo=twitter)](https://x.com/Akworld0987)
 [![Instagram](https://img.shields.io/badge/Instagram-anandkumar.ig-pink.svg?&style=for-the-badge&logo=instagram)](https://www.instagram.com/anandkumar.ig/)
 [![Youtube](https://img.shields.io/badge/Youtube-anandsingh-red.svg?&style=for-the-badge&logo=youtube)](https://www.youtube.com/@Anandsingh-by8fk)
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-anand%20kumar-blue.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anand-kumar-24a231331/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anand%20kumar-blue.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anand-kumar-a27b30246/)
+[![GitHub](https://img.shields.io/badge/GitHub-anand--kumar--2025-black.svg?&style=for-the-badge&logo=github)](https://github.com/ANAND-KUMAR-2025)
 [![dev.to](https://img.shields.io/badge/dev.to-anandkumar2025-black.svg?&style=for-the-badge&logo=dev.to)](https://dev.to/anandkumar2025)
 
 </div>
 
-<!-- ## Familiar in 
-<br>
+---
 
-<div align="center">
- <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=black"></img>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black"></img> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=black"></img> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black"></img> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black"></img>
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"></img> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=black"></img>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black"></img>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black"></img>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=black"></img>
-</div> -->
- Hey there, welcome to my GitHub profile! Here you’ll find my projects on Python, AI/ML, and Data Science, along with a few mechanical engineering and automation-related projects. I love experimenting with new technologies and solving real-world problems using AI. I’m also passionate about open-source contributions and constantly learning new things. When I’m not coding, you can find me playing cricket or exploring new tech trends .
-## About Me
+## 👋 Hey there, welcome to my GitHub!
 
-- **Mechanical Engineering student specializing in AI/ML**
-- **Skilled in Python, Data Science, and Automation**
-- **Basic knowledge of C programming**
-- **Experience with SolidWorks and AI/ML projects**
-
-## Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&shape=round)
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=ai&logoColor=white&shape=square)
-![Data Science](https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white&shape=round)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E34F26?style=for-the-badge&logo=solidworks&logoColor=white&shape=square)
-![Automation](https://img.shields.io/badge/Automation-FF4500?style=for-the-badge&shape=round)
-![C Programming](https://img.shields.io/badge/C%20Programming-00599C?style=for-the-badge&logo=c&logoColor=white&shape=square)
+I'm **Anand Kumar**, with a strong passion for **AI/ML**, **Web Development** . I enjoy building smart systems, experimenting with real-world automation, and working on community projects through my leadership in various student clubs.
 
 
+---
 
-## Projects
+## 🔎 About Me
 
-- [![Project](https://img.shields.io/badge/My%20AI%20Project-2F74C0?style=for-the-badge&logo=project&logoColor=white)](#)
+- 🎓 B.E.  (VTU) | CGPA: 8.76  
+- 💡 Specializing in Python, AI/ML, and Web Development  
+- 🧠 Experienced with tools like Django, TensorFlow, pandas, and scikit-learn  
+- 🛠️ Designed mechanical solutions using SolidWorks and simulated with Ansys & Fusion 360  
+- 🤝 Active in leadership roles (President of NSS & SME Club at CMRIT)
 
- ## Experience
+---
 
-**Intern at IISC (Indian Institute of Science)**: Analyzed products using Ansys and Fusion 360 to improve design and functionality.
-- **Intern at TWOK**: Designed and simulated a safety device using SolidWorks, enhancing user safety features.
-- **Open-source Contributor**: Collaborated on various projects, contributing to codebases and improving documentation.
-- **NSS Volunteer**: Organized community service events, including vaccination drives and blood donation camps, promoting health awareness.
+## 💼 Experience
+
+### 🖥 Web Development Intern | Weavum Technologies Pvt. Ltd  
+*Sept 2024 – Jan 2025 | Bangalore, India*  
+- Built and deployed Weavum’s company website using **Django** and **React**  
+- Developed secure REST APIs for dynamic product & user management  
+- Designed responsive frontends and collaborated across teams  
+---
+
+## 🚀 Projects
+
+### 📊 [Customer Personality Analysis](https://github.com/ANAND-KUMAR-2025/Customer_Personality_Analysis)  
+- Engineered ML models to segment customer personas for business insights  
+- Tools: **Python, scikit-learn, pandas, Jupyter Notebook**  
+- Result: Boosted segmentation strategy & earned faculty recognition
+
+---
+
+## 🛠 Skills
+
+### 💻 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🌐 Web Development  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧠 AI/ML & Tools  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🔧 Software  
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+---
+## 🌱 Interests  
+**Robotics | AI-Driven Applications | Football | Traveling**
+
+---
+
+Thanks for stopping by! Feel free to connect on [LinkedIn](https://www.linkedin.com/in/anand-kumar-a27b30246) or check out more on my [GitHub](https://github.com/ANAND-KUMAR-2025).
+
