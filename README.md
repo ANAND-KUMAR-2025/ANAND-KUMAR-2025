@@ -57,7 +57,7 @@ I'm **Anand Kumar**, with a strong passion for **AI/ML**, **Web Development** . 
 
 ### 💻 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+ 
 
 ### 🌐 Web Development  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
