@@ -37,7 +37,7 @@ I'm **Anand Kumar**, with a strong passion for **AI/ML**, **Web Development** . 
 
 ## 💼 Experience
 
-### 🖥 Web Development Intern | Weavum Technologies Pvt. Ltd  
+### 🖥 Software  Development Intern | Weavum Technologies Pvt. Ltd  
 *Sept 2024 – Jan 2025 | Bangalore, India*  
 - Built and deployed Weavum’s company website using **Django** and **React**  
 - Developed secure REST APIs for dynamic product & user management  
